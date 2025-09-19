@@ -3,51 +3,52 @@ project drive :https://drive.google.com/drive/folders/1ZjAViUEWCL8tudE0t-tLgp4lE
 
 # 🌱 Green Life
 
-**Green Life** is a social media project created to share health tips, positive routines, and daily tricks for a better lifestyle.  
-Our mission is to inspire people to live healthier, happier, and more balanced lives through short, engaging video content.  
+GreenLife is a healthy food delivery service that provides fresh, nutritious, and delicious meals right to your doorstep.  
+Our goal is to make healthy eating simple, affordable, and accessible for everyone.  
 
 ---
 
-## 📌 Project Idea
-We chose to build social media pages on **Facebook, Instagram, and TikTok**.  
-Our content will include:  
-- 🎥 Captured videos of us sharing health tips  
-- 🌿 Daily routines to boost positivity  
-- 💡 Lifestyle hacks for better living  
+## 🚀 Features
+- 📦 Multiple packages & bundles for different needs  
+- 🥗 100% healthy & fresh meals  
+- 🚚 Fast and reliable delivery  
+- 📱 Easy to order through Facebook & Instagram pages  
 
 ---
 
-## 🎯 Goals
-- Build an active online community interested in health and wellness  
-- Provide simple and practical health advice  
-- Encourage positivity and daily healthy habits  
+## 📂 Project Structure
 
 ---
 
-## 🛠 Platforms
-- **Facebook Page**: https://www.facebook.com/greenlife5
-- **Instagram Page**: @green_life0055  
-- **TikTok Page**: @greenlife854
+## 🛠️ Technologies Used
+- HTML / CSS / JavaScript (for frontend demo)  
+- [Any framework you’re using, e.g., React, Flutter, etc.]  
+- Firebase / Node.js (if backend is included)  
 
 ---
 
-## 📅 Content Plan
-- **Videos**: Short clips (30–60s) with clear health tips  
-- **Posts**: Infographics or text posts with simple advice  
-- **Stories/Reels**: Quick motivational quotes or daily routines  
+## 📖 How to Use
+1. Visit our official pages:  
+   - [Facebook](https://www.facebook.com/share/19dDwZhLhd/)  
+   - [Instagram](https://www.instagram.com/greenliife5?igsh=NThibTFhMDh1Yndu)  
+
+2. Choose your bundle or package  
+3. Place your order via DM or integrated system  
+4. Get your healthy meal delivered 🚚  
 
 ---
 
-## 👥 Team Roles
-- **Content Creators**: Recording health tips videos  
-- **Editors**: Making videos look engaging  
-- **Social Media Managers**: Posting & engaging with followers  
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](#).  
 
 ---
 
-## ✅ Why Green Life?
-- Easy to understand health tips  
-- Positive energy every day  
-- Community-driven lifestyle project  
+## 📄 License
+This project is licensed under the MIT License – see the LICENSE file for details. 
 
+---
 
+## 💚 About GreenLife
+*"Healthy bites, happy life."*  
+GreenFork is here to help you live healthier with tasty and nutritious meals.
